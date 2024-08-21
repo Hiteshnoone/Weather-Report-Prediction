@@ -15,3 +15,7 @@ Welcome to the Weather Dashboard! This project provides real-time weather inform
 - **CSS**: For styling and layout.
 - **JavaScript**: For dynamic functionality and API integration.
 - **OpenWeatherMap API**: To fetch weather data.
+
+## Link for the project
+- https://hiteshnoone.github.io/Weather-Report-Prediction/
+
